@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head> </head>
+
+<body>
+    <div>
+        <section id="Home-page">
+            <div id="navbar">
+                <div>
+                    <img src="" alt="logo" />
+                </div>
+                <div>
+                    <button id="login-button">Login</button>
+                    <button id="create-account-button">Create Account</button>
+                </div>
+            </div>
+
+            <div class="landing-page-details-container">
+                <div>
+                    <h1>Here Title Comes</h1>
+                    <p>The description along with some details come here</p>
+                </div>
+                <div>
+                    <div>
+                        <p>Link here</p>
+                        <a>-></a>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <div>
+
+        </div>
+    </div>
+</body>
+
+</html>
